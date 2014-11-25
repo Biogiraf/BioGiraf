@@ -1,0 +1,45 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0_09\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\Daniel\Downloads\ini4j-0.5.2.jar;C:\Users\Daniel\Dropbox\ITU\GRPRO\projects\My projects\recursivitivity
+-d
+C:\Users\Daniel\Dropbox\ITU\GRPRO\projects\My projects\recursivitivity\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\Daniel\Dropbox\ITU\GRPRO\projects\My projects\recursivitivity\binarite.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Daniel\Dropbox\ITU\GRPRO\projects\My projects\recursivitivity\binarite.java...
+Constructing Javadoc information...
+C:\Users\Daniel\Dropbox\ITU\GRPRO\projects\My projects\recursivitivity\binarite.java:1: error: package javax.Math does not exist
+import javax.Math.*;
+^
+Standard Doclet version 1.7.0_09
+Building tree for all the packages and classes...
+Generating C:\Users\Daniel\Dropbox\ITU\GRPRO\projects\My projects\recursivitivity\doc\binarite.html...
+Generating C:\Users\Daniel\Dropbox\ITU\GRPRO\projects\My projects\recursivitivity\doc\package-frame.html...
+Generating C:\Users\Daniel\Dropbox\ITU\GRPRO\projects\My projects\recursivitivity\doc\package-summary.html...
+Generating C:\Users\Daniel\Dropbox\ITU\GRPRO\projects\My projects\recursivitivity\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Daniel\Dropbox\ITU\GRPRO\projects\My projects\recursivitivity\doc\allclasses-frame.html...
+Generating C:\Users\Daniel\Dropbox\ITU\GRPRO\projects\My projects\recursivitivity\doc\allclasses-noframe.html...
+Generating C:\Users\Daniel\Dropbox\ITU\GRPRO\projects\My projects\recursivitivity\doc\index.html...
+Generating C:\Users\Daniel\Dropbox\ITU\GRPRO\projects\My projects\recursivitivity\doc\stylesheet.css...
+1 warning
