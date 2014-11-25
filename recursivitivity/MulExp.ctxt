@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.params=left\ right
-comment0.target=MulExp(Exp,\ Exp)
-comment1.params=
-comment1.target=int\ eval()
-numComments=2
